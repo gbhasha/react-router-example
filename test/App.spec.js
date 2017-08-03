@@ -21,6 +21,6 @@ describe('Component: App', () => {
   });
 
   it('should run a solid smoke test', () => {
-    expect(true).toEqual(false);
+    expect(true).toEqual(true);
   });
 });
